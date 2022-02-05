@@ -1,1 +1,1 @@
-# sql_study_tasks
+# study_tasks_tast_python
