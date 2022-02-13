@@ -1,4 +1,7 @@
 
-algorithms in python
+# Algorithms in Python
 
-Python 3.9
+### Stack of technologies:<br>
+-Python >= 3.10<br>
+
+
