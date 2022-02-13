@@ -1,4 +1,4 @@
-def minimum_sum(num:int) -> int:
+def minimum_sum(num: int) -> int:
     num = str(num)
     num2 = []
     for nu in num:
